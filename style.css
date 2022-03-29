@@ -1,0 +1,56 @@
+body
+{
+    background-image: url("sleekwallpaper.jpg");
+    background-size: cover;
+}
+
+.login_div1 , .login_div2 , .question_div4 , .question_div3
+{
+	background: rgb(0, 0, 0);
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+    color: darkred;
+}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background:darkred;;
+border-radius: 10px;
+border-top: 10px solid #000000;
+padding: 10px;
+float: none;
+text-align: left;
+}
+h1, h4{
+    color: darkred;
+}
+.login_button{
+    color: darkred;
+    background-color: #000000;
+    width:30%;
+    border-radius: 15px;
+}
+label{
+    color: white;
+}
+#player_question, #player_answer{
+    color:white;
+}
+#h41{
+    color: #000000;
+}
